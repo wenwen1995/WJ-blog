@@ -10,7 +10,7 @@
 所以，看了上述几篇文章，才能看下面的svg代码，So，svg的基本知识就不多讲了。
 
 html: （代码用vue书写）
-```
+```js
 <div id="app">
   <svg
       class="progress-ring"
@@ -35,7 +35,7 @@ html: （代码用vue书写）
 ```
 
 css代码：（关于这块也是有点说的， 继续往下看吧~）
-```
+```css
 <style>
   .progress-ring__circle {
       transform: rotate(-90deg);
@@ -45,7 +45,7 @@ css代码：（关于这块也是有点说的， 继续往下看吧~）
 ```
 
 Js代码：
-```
+```js
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script>
   new Vue({
@@ -89,7 +89,7 @@ Svg 实现环形图的原理是：**设置stroke-dasharray虚线长度等于当�
 而圆的周长怎么算呢， 圆的周长 = 2 * Pi * r(圆的半径)
 
 所以初始mounted函数中，代码中，设置了元素的strokeDasharray 为周长，间隔等于周长，
-```
+```js
 mounted() {
           const el = document.querySelector('.progress-ring__circle');
           const radius = el.r.baseVal.value;
@@ -111,7 +111,7 @@ mounted() {
 ![image.png](https://upload-images.jianshu.io/upload_images/1273659-bc7ed718d09dd358.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 加上style样式后，就变成我们想要的，从12点方向开始顺时针旋转，如下图
-```
+```css
 .progress-ring__circle {
     transform: rotate(-90deg);
     transform-origin: 50% 50%;
@@ -127,7 +127,7 @@ mounted() {
 
 ![image.png](https://upload-images.jianshu.io/upload_images/1273659-4c53eba7682eaa9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-```
+```css
 const offset = this.perimeter - (this.initialVal/100) * this.perimeter;
 ```
 

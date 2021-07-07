@@ -5,6 +5,7 @@ module.exports = {
     dest: './dist',
     head: [ // 注入到当前页面的 HTML <head> 中的标签
         ['link', {rel: 'icon', href: '/logo.jpg'}], // 增加一个自定义的 favicon(网页标签的图标)
+        ['meta', { name: 'referrer', content: 'never' }], // 此为访问简书图片403，fix配置让其正常显示
     ],
     base: '/WJ-blog/', // 这是部署到github相关的配置
     repo: 'https://github.com/wenwen1995/WJ-blog.git', // 添加 github 链接

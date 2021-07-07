@@ -17,7 +17,7 @@ html:
 </div>
 ```
 css ：
-```
+```css
 <style>
     .circle_wrapper {
         width: 80px;
@@ -123,7 +123,7 @@ Js  代码实现思路：
     如果算出来的角度大于180度，则右边是转满180度，还剩下252 -180 = 72度，由左边的圆形旋转这个角度即可
 3、代码整体是用vue实现的，这里使用组件的局部指令实现功能， 如下的**v-left-circle-progress，v-right-circle-progress**，：
 
-```
+```html
 <div class="wrapper left">
   <div class="circleProgress leftcircle" v-left-circle-progress=“{already: 70, all: 100}"></div>
 </div>
@@ -133,7 +133,7 @@ Js  代码实现思路：
 ```
 
 js:
-```
+```js
  <script src="[https://cdn.jsdelivr.net/npm/vue/dist/vue.js](https://cdn.jsdelivr.net/npm/vue/dist/vue.js)"></script>
 <script>
   new Vue({

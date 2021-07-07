@@ -1,6 +1,6 @@
 使用vue-element-admin脚手架做系统时，一般系统的侧边栏都是有父级，子级，子子级，发现使用keep-alive，当三级以上的路由时，无法缓存页面？？
 
-#####那首先要了解下keep-alive的作用是啥？
+##### 那首先要了解下keep-alive的作用是啥？
 
 * 是用来对页面组件进行缓存不缓存的处理，拥有缓存页面组件，再次进入时，使用原来已经加载好的内容，可以大大的节省请求和渲染时间，是个好东西！
 
@@ -41,7 +41,7 @@ computed: {
   （2）**这个具体vue组件页面的name要跟你router文件中配置的name一样**
            因为在每次打开标签页和关闭标签页处理时，是根据name来匹配，进行添加删除。如果组件内部页面配置的name是Order,而路由文件配置的name是order,那include和exclude也不会有用！
 
-#####准备工作做好了后，就可以使用keep-alive 啦
+##### 准备工作做好了后，就可以使用keep-alive 啦
 
  include 属性进行缓存页面组件的操作了，实现参考了github这篇： [https://github.com/PanJiaChen/vue-element-admin/commit/9ad96525af3a26c2f4e8d4e9016f801c44df1f80](https://github.com/PanJiaChen/vue-element-admin/commit/9ad96525af3a26c2f4e8d4e9016f801c44df1f80)
 
