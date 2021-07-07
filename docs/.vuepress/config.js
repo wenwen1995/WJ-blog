@@ -1,6 +1,21 @@
 module.exports = {
     title: 'WJ-blog',
-    // plugins: ['autobar'],
+    plugins: [
+        // 也评论
+        [
+            'vuepress-plugin-comment',
+            {
+                choosen: 'valine',
+                // options选项中的所有参数，会传给Valine的配置
+                options: {
+                    el: '#valine-vuepress-comment',
+                    appId: 'xydiPqiF7ltVMBOsCOQdMyjG-gzGzoHsz',
+                    appKey: 'uKiXzwNdzEsHDTrEKeDfysuC',
+                    path: '<%- frontmatter.to.path ? "/base" + frontmatter.to.path : window.location.pathname %>'
+                }
+            }
+        ]
+    ],
     description: '我的个人网站',
     dest: './dist',
     head: [ // 注入到当前页面的 HTML <head> 中的标签

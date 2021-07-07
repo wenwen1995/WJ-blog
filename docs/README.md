@@ -1,7 +1,7 @@
 ---
 home: true # 标记此页面是否为首页
 lang: zh-CN # 表示本页面的语言为zh-CN(简体中文)
-heroText: RWJ's blog # 首页的标题内容
+heroText: WJ's blog # 首页的标题内容
 actionText: Get Started → # 首页跳转按钮的内容
 features: #  表明首页的特征，固定的格式为title + details，以三栏流式布局的方式展示
   - title: 博客
