@@ -8,7 +8,9 @@ npm run build
 
 #提交当前master分支的记录
 git add .
-git commit -m 'master内容更新'
+git commit -m 'master content update'
+git push origin master
+git push origin master
 git push origin master
 
 # 这里为避免切换错误，删除 .idea/目录
@@ -28,7 +30,8 @@ cp -r dist/* ./
 git add .
 git commit -m 'deploy'
 git push origin gh-pages
-
+git push origin gh-pages
+git push origin gh-pages
 
 # 完成结束后，再切回主分支，进行编辑
 # 这里为避免切换错误，删除 .idea/目录
