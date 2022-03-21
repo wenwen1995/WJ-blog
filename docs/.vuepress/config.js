@@ -44,6 +44,10 @@ module.exports = {
                     ['/front/study/single-spa-understand', '关于single-spa的理解和小实战'],
                     ['/front/study/typescript-about-interface-understand', 'TYPESCRIPT 关于interface理解'],
                     ['/front/study/css3 transform, transform-origin usage', 'css3 transform, transform-origin 用法'],
+                    ['/front/study/virtualList-fixedItem', '虚拟列表(item固定高度实现+理解)'],
+                    ['/front/study/virtualList-dynamatic', '虚拟列表(item高度不固定实现+理解)'],
+                    ['/front/study/virtualList-intersectionObserver1', '虚拟列表(item 固定高度--采用intersectionObserver)(一)'],
+                    ['/front/study/virtualList-intersectionObserver2', '虚拟列表(item 固定高度--采用intersectionObserver)(二)'],
                 ]
             },
             {
@@ -55,6 +59,7 @@ module.exports = {
                     ['/front/work/scrollIntoView VS scrollIntoViewIfNeeded', 'scrollIntoView VS scrollIntoViewIfNeeded、爬坑'],
                     ['/front/work/circle-progress-by-css3', '静态环形进度条css3实现'],
                     ['/front/work/circle-progress-by-svg', '静态环形进度条svg实现'],
+                    ['/front/work/element-ui-use-tricks', 'element-ui 使用时的奇淫巧技'],
                 ]
             },
             ['/algorithm/study-leetcode', '刷leetcode部分笔记总结'],
