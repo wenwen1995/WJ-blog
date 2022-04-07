@@ -30,7 +30,7 @@ computed: {
 ![1.png](https://upload-images.jianshu.io/upload_images/1273659-a42561c847a8032e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-   （1）**官方vue组件的name的命名方式**，参考链接： [https://cn.vuejs.org/v2/guide/components-registration.html](https://cn.vuejs.org/v2/guide/components-registration.html)
+（1）**官方vue组件的name的命名方式**，参考链接： [https://cn.vuejs.org/v2/guide/components-registration.html](https://cn.vuejs.org/v2/guide/components-registration.html)
 
   这里，由于默认的eslint配置文件.eslintrc.js中，如下：
 ![2.png](https://upload-images.jianshu.io/upload_images/1273659-4fb4cfbc43a645a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

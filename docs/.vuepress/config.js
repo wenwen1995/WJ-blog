@@ -60,6 +60,7 @@ module.exports = {
                     ['/front/work/circle-progress-by-css3', '静态环形进度条css3实现'],
                     ['/front/work/circle-progress-by-svg', '静态环形进度条svg实现'],
                     ['/front/work/element-ui-use-tricks', 'element-ui 使用时的奇淫巧技'],
+                    ['/front/work/git revert VS git reset', 'git revert VS git reset'],
                 ]
             },
             ['/algorithm/study-leetcode', '刷leetcode部分笔记总结'],
