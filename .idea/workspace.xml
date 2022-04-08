@@ -2,91 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="991b5d9d-467e-4544-9a5e-21b9c7b5eae3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/life/lifeDaily/2021-7-7-life.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/life/lifeDaily/2021-7-7-life.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/update.sh" beforeDir="false" afterPath="$PROJECT_DIR$/update.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/algorithm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/algorithm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/algorithm/study-leetcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/algorithm/study-leetcode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/10.f5fb98c1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/11.dfa36257.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/12.51629b12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/13.879faa11.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/14.b209c8ac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/15.3ca38a1b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/16.e76f72ea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/17.16e828d7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/18.59568440.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/19.e6d0dc04.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/2.5ef089b9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/20.8da2404f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/21.b211a911.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/22.fb25d076.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/23.2cd411a4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/24.e426eeba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/25.6b8ecc01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/3.74b84e5c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/4.3811c212.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/5.7b4afe27.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/6.dad49260.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/7.3b29cea6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/8.ae889baa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/9.8eacea62.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/app.c2240769.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/css3 transform, transform-origin usage.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/css3 transform, transform-origin usage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/single-spa-understand.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/single-spa-understand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/typescript-about-interface-understand.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/typescript-about-interface-understand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/virtualList-dynamatic.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/virtualList-dynamatic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/virtualList-fixedItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/virtualList-fixedItem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/virtualList-intersectionObserver1.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/virtualList-intersectionObserver1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/virtualList-intersectionObserver2.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/virtualList-intersectionObserver2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/circle-progress-by-css3.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/circle-progress-by-css3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/circle-progress-by-svg.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/circle-progress-by-svg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/element-ui-use-tricks.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/element-ui-use-tricks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/realize-iframe-and-window.postMessage.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/realize-iframe-and-window.postMessage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/scrollIntoView VS scrollIntoViewIfNeeded.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/scrollIntoView VS scrollIntoViewIfNeeded.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/vue-admin keep-alive-multiple-router-can't-cathe.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/vue-admin keep-alive-multiple-router-can't-cathe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/life/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/life/introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/life/lifeDaily/2021-7-7-life.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/life/lifeDaily/2021-7-7-life.html" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1263111301">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="1" />
-          <entry key="gitignore" value="1" />
-          <entry key="html" value="4" />
-          <entry key="js" value="2" />
-          <entry key="json" value="4" />
-          <entry key="md" value="12" />
-          <entry key="sh" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="4" />
-          <entry key="JSON" value="4" />
-          <entry key="JavaScript" value="2" />
-          <entry key="Markdown" value="12" />
-          <entry key="PLAIN_TEXT" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="js" value="88" />
-          <entry key="json" value="2" />
-          <entry key="md" value="468" />
-          <entry key="sh" value="511" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="88" />
-          <entry key="Markdown" value="468" />
-          <entry key="PLAIN_TEXT" value="512" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/update.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/life/lifeDaily/2021-7-7-life.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="184">
-                <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -95,6 +61,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -132,6 +106,7 @@
     <option name="width" value="1767" />
     <option name="height" value="836" />
   </component>
+  <component name="ProjectId" id="27P5I883g6dy00aMoWPHMJTGzih" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -171,24 +146,20 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/project/zhxx-pc-03" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -201,6 +172,11 @@
       <updated>1625641609527</updated>
       <workItem from="1625641611054" duration="1686000" />
       <workItem from="1625719651708" duration="506000" />
+      <workItem from="1649208807580" duration="3088000" />
+      <workItem from="1649226722088" duration="1196000" />
+      <workItem from="1649229532641" duration="3847000" />
+      <workItem from="1649296855354" duration="8624000" />
+      <workItem from="1649382395980" duration="13427000" />
     </task>
     <servers />
   </component>
@@ -233,13 +209,22 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.sh" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/docs/front/introduction.md">
