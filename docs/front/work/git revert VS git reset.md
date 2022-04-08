@@ -83,10 +83,48 @@ git reset 常用命令有三个分别是 soft, hard, mixed，这里相当于是 
 ![git reset后面加上hard参数的记录](./2022-4-6/7.png)
 
 
+所以对于之前我们说的问题：**此时来了新的bug改动，相当于我们要在提交的1的基础上进行改动，进行新的提交**，可以使用安全的命令实现
+
+```git reset c9afe3(这个提交id为需要在之前提交的某个基础上改动的id)```
 
 
+#### git revert会出现什么结果？
 
+这里要普及一下revert命令的知识：
 
+git revert 撤销某次操作，此次操作之前和之后的commit和history都会保留，并且把这次撤销，作为一次最新的提交，
+可以单个撤销，也可以连续撤销，亦可以不连续撤销，命令如下
 
+```js
+git revert HEAD                  //撤销前一次 commit
+git revert HEAD^               //撤销前前一次 commit    
+git revert commit_id //（比如:fa042ce57ebbe5bb9c8db709f719cec2c58ee7ff）
+```
+
+连续：
+
+```js
+git revert -n commit_id_start..commit_id_end
+```
+
+不连续：
+
+```js
+git revert -n commit_id_1
+git revert -n commit_id_3
+//使用该命令可以撤回到commit_id_1和commit_id_3的提交
+```
+
+我们重新建个index.js, 提交3次，形成如下的记录：
+
+![初始项目](./2022-4-6/8.png)
+
+我们试下命令  ```git revert cb97721```,想要撤销2以后的改动，即在1的基础上添加新的改动。
+
+(ÒωÓױ)！？输入命令后，控制台竟然有冲突？？
+
+![冲突内容](./2022-4-6/9.png)
+
+查阅一番得知，这样的出现是正确的，因为对于同个文件
 
 
