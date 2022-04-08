@@ -3,9 +3,9 @@
 环形进度条可以用svg 实现，Element-ui中的环形进度条就是用svg实现的
 
  svg好文链接：
-  1、推荐！介绍svg实现环形的用法，以及 stroke-dasharray, stroke-dashoffset表示的意义： [https://www.cnblogs.com/daisygogogo/p/11044353.html](https://www.cnblogs.com/daisygogogo/p/11044353.html)
-  2、[https://jakearchibald.com/2013/animated-line-drawing-svg/](https://jakearchibald.com/2013/animated-line-drawing-svg/)
-  3、国外实现环形进度条好文： [https://css-tricks.com/building-progress-ring-quickly/](https://css-tricks.com/building-progress-ring-quickly/)
+1、推荐！介绍svg实现环形的用法，以及 stroke-dasharray, stroke-dashoffset表示的意义： [https://www.cnblogs.com/daisygogogo/p/11044353.html](https://www.cnblogs.com/daisygogogo/p/11044353.html)
+2、[https://jakearchibald.com/2013/animated-line-drawing-svg/](https://jakearchibald.com/2013/animated-line-drawing-svg/)
+3、国外实现环形进度条好文： [https://css-tricks.com/building-progress-ring-quickly/](https://css-tricks.com/building-progress-ring-quickly/)
 
 所以，看了上述几篇文章，才能看下面的svg代码，So，svg的基本知识就不多讲了。
 
