@@ -61,6 +61,8 @@ module.exports = {
                     ['/front/work/circle-progress-by-svg', '静态环形进度条svg实现'],
                     ['/front/work/element-ui-use-tricks', 'element-ui 使用时的奇淫巧技'],
                     ['/front/work/git revert VS git reset', 'git revert VS git reset'],
+                    ['/front/work/git revert recover file', 'git revert恢复撤销的记录'],
+                    ['/front/work/vue element fonts cannot find after building', 'vue 2.x之打包之后，elements的fonts文件找不到，导致页面图标丢失问题解决'],
                 ]
             },
             ['/algorithm/study-leetcode', '刷leetcode部分笔记总结'],
