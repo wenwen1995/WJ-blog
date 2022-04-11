@@ -1,18 +1,11 @@
 module.exports = {
     title: 'WJ-blog',
     plugins: [
-        // 也评论
+        // 评论
         [
-            'vuepress-plugin-comment',
+            '@vuepress/register-components',
             {
-                choosen: 'valine',
-                // options选项中的所有参数，会传给Valine的配置
-                options: {
-                    el: '#valine-vuepress-comment',
-                    appId: 'xydiPqiF7ltVMBOsCOQdMyjG-gzGzoHsz',
-                    appKey: 'uKiXzwNdzEsHDTrEKeDfysuC',
-                    path: '<%- frontmatter.to.path ? "/base" + frontmatter.to.path : window.location.pathname %>'
-                }
+                componentsDir: './components'
             }
         ]
     ],
@@ -75,6 +68,6 @@ module.exports = {
                 ]
             },
         ],
-        lastUpdated: 'Last Updated' // 文档更新时间：每个文件git最后提交的时间
+        lastUpdated: '最后更新时间' // 文档更新时间：每个文件git最后提交的时间
     }
 };

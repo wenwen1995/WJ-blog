@@ -137,3 +137,5 @@ const ele = document.getElementById('input-style')
 
 
 **所以，综上所述，之后碰到类型的问题，都可以采取该方法。果然框架之所以是框架，里面有很多丰富的宝藏啊！多看源码！敲黑板！ᕦ(･ㅂ･)ᕤ**
+
+<Valine />

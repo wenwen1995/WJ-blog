@@ -75,5 +75,6 @@ Vue.component('ElTableColumn' || FitTableColumn.name, FitTableColumn)
 
 但我这里： 控制台报warning这个：`[Element Warn][TableColumn]Comparing to render-header, scoped-slot header is easier to use. We recommend users to use scoped-slot header.` 。。。就先不管了，有空再解决这个warning.
 
+<Valine />
 
 

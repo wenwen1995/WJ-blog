@@ -314,3 +314,5 @@ window.getPublicPath = function(name) {
 
 
  >后记： 后来自己参考网上的实例，参考网站：[react+vue single-spa实战](https://www.jdon.com/52552),也写了个以react, vue分别为单应用的 简单的single-spa， 例子详戳：[模仿的react+vue single-spa实战](https://github.com/wenwen1995/single-spa-test-demo)
+
+<Valine />

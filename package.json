@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "leancloud-storage": "^4.12.2",
+    "valine": "^1.4.18",
     "vuepress-plugin-comment": "^0.7.3"
   }
 }

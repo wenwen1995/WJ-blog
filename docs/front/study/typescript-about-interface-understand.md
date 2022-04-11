@@ -187,5 +187,6 @@ car door is, height: 300,width:600
 其他关于类与接口的理解，还是参考最开始的链接。
 
 
+<Valine />
 
 
