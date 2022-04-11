@@ -1,10 +1,9 @@
 <font color=blue size=24>single-spa </font>
 
-起因是看了一下掘金的这篇链接; [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258, 讲最终将多个独立的小项目，利用single-spa框架的方法(即l类似于微服务)) 整合成一个大项目。讲的很不错
+起因是看了一下掘金的这篇链接; [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258) , 讲最终将多个独立的小项目，利用single-spa框架的方法(即l类似于微服务)，整合成一个大项目。讲的很不错
 
 * 适用场景：项目庞大，多个子项目整合在一个大的项目中。即使子项目的所用的技术栈不同，比如vue,react, angular有相应的single-spa的轮子，可以进行整合。
 
-<!-- more -->
 
 * 不适用于：
    （1）< ie9 以下的版本
@@ -314,11 +313,4 @@ window.getPublicPath = function(name) {
 通过对于demo的分析，更好的理解了single-spa的使用场景和如何进行的。不得不说，single-spa的设计和想法，令人眼界大开~希望未来有机会也能在大型多个应用上一展身手
 
 
-```diff
- 后记：
-```
- 
-后来自己参考网上的实例，参考网站：[react+vue single-spa实战](https://www.jdon.com/52552)
-
-也写了个以react, vue分别为单应用的 简单的single-spa， 例子详戳：
-[模仿的react+vue single-spa实战](https://github.com/wenwen1995/single-spa-test-demo)
+ >后记： 后来自己参考网上的实例，参考网站：[react+vue single-spa实战](https://www.jdon.com/52552),也写了个以react, vue分别为单应用的 简单的single-spa， 例子详戳：[模仿的react+vue single-spa实战](https://github.com/wenwen1995/single-spa-test-demo)
