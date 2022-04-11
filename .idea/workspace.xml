@@ -3,51 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="991b5d9d-467e-4544-9a5e-21b9c7b5eae3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/algorithm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/algorithm/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/algorithm/study-leetcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/algorithm/study-leetcode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/10.f5fb98c1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/11.dfa36257.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/12.51629b12.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/13.879faa11.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/14.b209c8ac.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/15.3ca38a1b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/16.e76f72ea.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/17.16e828d7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/18.59568440.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/19.e6d0dc04.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/2.5ef089b9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/20.8da2404f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/21.b211a911.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/22.fb25d076.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/23.2cd411a4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/24.e426eeba.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/25.6b8ecc01.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/3.74b84e5c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/4.3811c212.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/5.7b4afe27.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/6.dad49260.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/7.3b29cea6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/8.ae889baa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/9.8eacea62.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/app.c2240769.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/study/css3 transform, transform-origin usage.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/css3 transform, transform-origin usage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/study/single-spa-understand.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/single-spa-understand.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/study/typescript-about-interface-understand.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/typescript-about-interface-understand.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/study/virtualList-dynamatic.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/virtualList-dynamatic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/study/virtualList-fixedItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/virtualList-fixedItem.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/study/virtualList-intersectionObserver1.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/virtualList-intersectionObserver1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/study/virtualList-intersectionObserver2.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/virtualList-intersectionObserver2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/work/circle-progress-by-css3.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/circle-progress-by-css3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/work/circle-progress-by-svg.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/circle-progress-by-svg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/work/element-ui-use-tricks.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/element-ui-use-tricks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/work/realize-iframe-and-window.postMessage.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/realize-iframe-and-window.postMessage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/work/scrollIntoView VS scrollIntoViewIfNeeded.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/scrollIntoView VS scrollIntoViewIfNeeded.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/front/work/vue-admin keep-alive-multiple-router-can't-cathe.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/vue-admin keep-alive-multiple-router-can't-cathe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/life/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/life/introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/life/lifeDaily/2021-7-7-life.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/life/lifeDaily/2021-7-7-life.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/front/study/single-spa-understand.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/front/study/single-spa-understand.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/front/work/vue element fonts cannot find after building.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/front/work/vue element fonts cannot find after building.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +133,8 @@
       <workItem from="1649226722088" duration="1196000" />
       <workItem from="1649229532641" duration="3847000" />
       <workItem from="1649296855354" duration="8624000" />
-      <workItem from="1649382395980" duration="13427000" />
+      <workItem from="1649382395980" duration="13885000" />
+      <workItem from="1649637084050" duration="7756000" />
     </task>
     <servers />
   </component>
