@@ -61,7 +61,12 @@ if (options.extract) {
 
 ![fonts文件配置](./2022-4-11/11.png)
 
-我们改写一下形式，并使用file-loader来加载（这里file-loader和url-loader的异同点，等到下一篇文章再做总结，其实还要总结一篇绝对路径、相对路径的，总是搞不清楚。。）
+我们改写一下形式，并使用file-loader来加载（这里
+
+[ ] file-loader和url-loader的异同点，等到下一篇文章再做总结
+
+[ ] 其实还要总结一篇绝对路径、相对路径的，总是搞不清楚。。
+）
 
 ```js
 {

@@ -56,6 +56,7 @@ module.exports = {
                     ['/front/work/git revert VS git reset', 'git revert VS git reset'],
                     ['/front/work/git revert recover file', 'git revert恢复撤销的记录'],
                     ['/front/work/vue element fonts cannot find after building', 'vue 2.x之打包之后，elements的fonts文件找不到，导致页面图标丢失问题解决'],
+                    ['/front/work/divEditable', '六期模块--计算公式功能点梳理'],
                 ]
             },
             ['/algorithm/study-leetcode', '刷leetcode部分笔记总结'],
