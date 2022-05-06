@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="991b5d9d-467e-4544-9a5e-21b9c7b5eae3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/front/work/divEditable.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/front/work/file-loader vs url-loader.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/front/work/2022-4-15/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/front/work/2022-4-15/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/front/work/2022-4-15/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/front/work/2022-4-15/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/front/work/2022-4-15/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/front/work/divEditable-1-knowledge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/front/work/git revert multiple commit.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/app.d50cf8da.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/js/app.d50cf8da.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/front/work/vue element fonts cannot find after building.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/front/work/vue element fonts cannot find after building.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/front/work/divEditable.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,8 +117,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/front/work" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../formula" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -148,6 +156,12 @@
       <workItem from="1649723764016" duration="3366000" />
       <workItem from="1649983011592" duration="1644000" />
       <workItem from="1649988194030" duration="12257000" />
+      <workItem from="1650240768158" duration="14817000" />
+      <workItem from="1650267332679" duration="1866000" />
+      <workItem from="1651742710159" duration="1189000" />
+      <workItem from="1651797594989" duration="5236000" />
+      <workItem from="1651806535132" duration="680000" />
+      <workItem from="1651817414476" duration="650000" />
     </task>
     <servers />
   </component>

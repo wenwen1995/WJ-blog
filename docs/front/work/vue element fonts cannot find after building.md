@@ -63,9 +63,9 @@ if (options.extract) {
 
 我们改写一下形式，并使用file-loader来加载（这里
 
-[ ] file-loader和url-loader的异同点，等到下一篇文章再做总结
+- file-loader和url-loader的异同点，等到下一篇文章再做总结
 
-[ ] 其实还要总结一篇绝对路径、相对路径的，总是搞不清楚。。
+- 其实还要总结一篇绝对路径、相对路径的，总是搞不清楚。。
 ）
 
 ```js

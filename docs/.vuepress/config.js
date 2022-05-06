@@ -55,8 +55,9 @@ module.exports = {
                     ['/front/work/element-ui-use-tricks', 'element-ui 使用时的奇淫巧技'],
                     ['/front/work/git revert VS git reset', 'git revert VS git reset'],
                     ['/front/work/git revert recover file', 'git revert恢复撤销的记录'],
+                    ['/front/work/git revert multiple commit', 'git revert多条记录'],
                     ['/front/work/vue element fonts cannot find after building', 'vue 2.x之打包之后，elements的fonts文件找不到，导致页面图标丢失问题解决'],
-                    ['/front/work/divEditable', '六期模块--计算公式功能点梳理'],
+                    ['/front/work/divEditable-1-knowledge', '六期模块--计算公式功能点梳理(一)：知识点梳理'],
                 ]
             },
             ['/algorithm/study-leetcode', '刷leetcode部分笔记总结'],
