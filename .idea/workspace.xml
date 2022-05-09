@@ -2,22 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="991b5d9d-467e-4544-9a5e-21b9c7b5eae3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/front/work/2022-4-15/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/front/work/2022-4-15/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/front/work/2022-4-15/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/front/work/2022-4-15/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/front/work/2022-4-15/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/front/work/divEditable-1-knowledge.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/front/work/git revert multiple commit.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/app.d50cf8da.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/js/app.d50cf8da.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/front/work/divEditable.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/algorithm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/algorithm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/algorithm/study-leetcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/algorithm/study-leetcode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/css/0.styles.fb224c43.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/10.704d6ed1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/11.93e31c10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/12.896a2884.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/13.849823a4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/14.01b403c1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/15.cd9c7a41.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/16.ebf4ccad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/17.73ee9ff9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/18.a2b56434.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/19.239a2da3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/2.d05ea28f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/20.ccd62187.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/21.48d357a0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/22.4ad9dbd7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/23.104d8d89.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/24.e14e8344.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/25.b5bfa0bf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/26.8462e4fd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/27.4badc797.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/28.25c871c8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/29.7217b448.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/3.12c76b39.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/30.2907247e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/31.2c53791a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/32.fa4b9461.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/33.274c26c6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/4.91ac1c7b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/5.cd28fc02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/6.18f38ba4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/7.ef63ff84.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/8.e9d51d49.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/9.8e28ec00.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/app.d3eb9558.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/css3 transform, transform-origin usage.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/css3 transform, transform-origin usage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/single-spa-understand.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/single-spa-understand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/typescript-about-interface-understand.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/typescript-about-interface-understand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/virtualList-dynamatic.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/virtualList-dynamatic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/virtualList-fixedItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/virtualList-fixedItem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/virtualList-intersectionObserver1.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/virtualList-intersectionObserver1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/study/virtualList-intersectionObserver2.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/study/virtualList-intersectionObserver2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/circle-progress-by-css3.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/circle-progress-by-css3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/circle-progress-by-svg.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/circle-progress-by-svg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/divEditable-1-knowledge.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/divEditable-1-knowledge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/element-ui-use-tricks.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/element-ui-use-tricks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/file-loader vs url-loader.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/file-loader vs url-loader.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/git revert VS git reset.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/git revert VS git reset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/git revert multiple commit.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/git revert multiple commit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/git revert recover file.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/git revert recover file.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/realize-iframe-and-window.postMessage.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/realize-iframe-and-window.postMessage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/scrollIntoView VS scrollIntoViewIfNeeded.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/scrollIntoView VS scrollIntoViewIfNeeded.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/vue element fonts cannot find after building.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/vue element fonts cannot find after building.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/front/work/vue-admin keep-alive-multiple-router-can't-cathe.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/front/work/vue-admin keep-alive-multiple-router-can't-cathe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/life/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/life/introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/life/lifeDaily/2021-7-7-life.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/life/lifeDaily/2021-7-7-life.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -120,7 +177,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../formula" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/front/work/2022-5-6" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -128,6 +185,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Blog\WJ-blog\docs\front\work\2022-5-6" />
       <recent name="F:\Blog\WJ-blog\docs\front\work" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -161,7 +219,10 @@
       <workItem from="1651742710159" duration="1189000" />
       <workItem from="1651797594989" duration="5236000" />
       <workItem from="1651806535132" duration="680000" />
-      <workItem from="1651817414476" duration="650000" />
+      <workItem from="1651817414476" duration="3301000" />
+      <workItem from="1651911716538" duration="1831000" />
+      <workItem from="1651915038360" duration="810000" />
+      <workItem from="1652056630394" duration="8394000" />
     </task>
     <servers />
   </component>
